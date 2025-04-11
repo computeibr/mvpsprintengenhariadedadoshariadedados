@@ -141,3 +141,7 @@ O levantamento analisou milhares de registros e filtrou os valores extremos, rev
 - **Máxima registrada:** **125.6 mm** em uma hora
 
 ---
+
+## Link para o Notebook
+
+[Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1wPr2L0-TH8fjkaL81-NdxH7ITP1mdxQN?usp=sharing)
