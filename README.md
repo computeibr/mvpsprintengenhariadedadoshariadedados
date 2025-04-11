@@ -142,6 +142,16 @@ O levantamento analisou milhares de registros e filtrou os valores extremos, rev
 
 ---
 
+## Autoavaliação
+
+Ao finalizar este trabalho, considero que consegui atingir os principais objetivos propostos, especialmente na organização e análise básica dos dados pluviométricos. Foi possível identificar padrões importantes, como os horários com maior incidência de chuva, e levantar possíveis impactos disso na cidade, como mobilidade urbana e risco de alagamentos.
+
+Durante a execução, tive dificuldades iniciais com o uso do Databricks, o que consumiu um tempo considerável e me levou a migrar a análise para o Google Colab, onde consegui avançar melhor. Também tive que aprender a lidar com tipos de dados diferentes e entender como limpar e preparar os dados para análise — algo que nunca tinha feito antes com tanta profundidade.
+
+Como trabalho futuro, pretendo melhorar meu conhecimento em SQL, gráficos e visualizações, além de estudar mais formas de cruzar esses dados com outras fontes, como lixo urbano ou trânsito. Assim, posso tornar esse projeto mais completo e útil para situações reais.
+
+
+
 ## Link para o Notebook
 
 [Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1wPr2L0-TH8fjkaL81-NdxH7ITP1mdxQN?usp=sharing)
